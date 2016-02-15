@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/github/license/rayrutjes/ddd-essentials.svg)](LICENSE.md)
+
 # DDD Essentials.
 
 DDD Essentials is a bunch of contracts that allows a quick setup of a nicely layered Domain Driven Design application in PHP.
@@ -10,4 +12,4 @@ We use PHP 7 by default. I think that DDD should be considered at the start of y
 
 Please feel free to contribute by any means.
 
-I am actually still missing some concepts such as Sagas, so feel free to suggest your contracts.
+I am actually still missing some concepts such as Sagas, so feel free to suggest your new contracts, or improve existing ones.
